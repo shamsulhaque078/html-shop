@@ -140,6 +140,25 @@
 }
 
 /* mmmm */
+/* mobile menu */
+.navitems {
+  background: #bbbbbb;
+  border-bottom: 1px solid #00000036;
+}
+
+.navitems .nav-link {
+  color: #fff;
+}
+
+.navitems:hover .nav-link {
+  background: #71bcfa;
+}
+.navitems .nav-link:hover {
+  color: #000;
+}
+
+/* mobile menu */
+
 
 }
 
